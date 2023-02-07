@@ -14,3 +14,5 @@ EXPOSE 9090
 
 ENTRYPOINT ["/home/webwolf/start-webwolf.sh"]
 CMD ["--server.port=9090", "--server.address=0.0.0.0"]
+
+#hjasgdf teste
